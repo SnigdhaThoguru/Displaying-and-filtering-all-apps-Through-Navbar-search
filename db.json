@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "image": "https://unifiedaccess.mphasis.com/images/AppIcons/default.png",
+        "title": "ACCOLADE"
+       
+    },
+    {
+        "id": 2,
+        "image": "https://unifiedaccess.mphasis.com/images/AppIcons/ait.png",
+        "title": "Admin Invoice Traker"
+       
+    },
+    {
+        "id": 3,
+        "image": "https://unifiedaccess.mphasis.com/images/AppIcons/playnext.png",
+        "title": "Alerts Dashboard"
+       
+    },
+    {
+        "id": 4,
+        "image": "https://unifiedaccess.mphasis.com/images/AppIcons/ams.png",
+        "title": "AMS"
+       
+    },
+    {
+        "id": 5,
+        "image": "https://unifiedaccess.mphasis.com/images/AppIcons/asms.png",
+        "title": "ASMS"
+       
+    },
+    {
+        "id": 6,
+        "image": "https://unifiedaccess.mphasis.com/images/AppIcons/bhub1.png",
+        "title": "BenifitHub"
+       
+    },
+    {
+        "id": 7,
+        "image": "https://unifiedaccess.mphasis.com/images/AppIcons/pass.png",
+        "title": "Change Password"
+       
+    },
+    {
+        "id": 8,
+        "image": "https://unifiedaccess.mphasis.com/images/AppIcons/webex1.png",
+        "title": " Webex Meetings"
+       
+    },
+    {
+        "id": 9,
+        "image": "https://unifiedaccess.mphasis.com/images/AppIcons/clapt.png",
+        "title": "CLAP"
+       
+    },
+    {
+        "id": 10,
+        "image": "https://unifiedaccess.mphasis.com/images/AppIcons/clientappr.png",
+        "title": "Client Creation"
+       
+    },
+    {
+        "id": 11,
+        "image": "https://unifiedaccess.mphasis.com/images/AppIcons/icertis.png",
+    "title": "CLM Tool"
+       
+    },
+    {
+        "id": 12,
+        "image": "https://unifiedaccess.mphasis.com/images/AppIcons/default.png",
+        "title": "Collections Dashboard"
+       
+    },
+    {
+        "id": 11,
+        "image": "https://unifiedaccess.mphasis.com/images/AppIcons/community.png",
+    "title": "Communities"
+       
+    },
+    {
+        "id": 11,
+        "image": "https://unifiedaccess.mphasis.com/images/AppIcons/dcar.png",
+    "title": "DCAR"
+       
+    },
+    {
+        "id": 11,
+        "image": "https://unifiedaccess.mphasis.com/images/AppIcons/dexter.png",
+    "title": "Dexter"
+       
+    }
+]
